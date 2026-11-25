@@ -1,3 +1,4 @@
-# Stateline Real Estate demo website
+# PalmHaus Real Estate, Miami demo website
 
-One page demo site built by Habtech for Stateline Real Estate, Cumberland, Rhode Island. Single index.html, no build step.
+Demo one page website built by Habtech for PalmHaus Real Estate, Miami.
+Static site, open index.html. Demo preview only, not the live website.
